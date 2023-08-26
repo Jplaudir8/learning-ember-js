@@ -2,7 +2,7 @@
 
 module.exports = function (environment) {
   const ENV = {
-    modulePrefix: 'emberjs-tutorial',
+    modulePrefix: 'yt-tutorial',
     environment,
     rootURL: '/',
     locationType: 'history',

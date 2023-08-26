@@ -1,5 +1,5 @@
-import Application from 'emberjs-tutorial/app';
-import config from 'emberjs-tutorial/config/environment';
+import Application from 'yt-tutorial/app';
+import config from 'yt-tutorial/config/environment';
 import * as QUnit from 'qunit';
 import { setApplication } from '@ember/test-helpers';
 import { setup } from 'qunit-dom';
